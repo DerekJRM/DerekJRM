@@ -1,6 +1,7 @@
 # Hi there, I'm Derek Rojas Mendoza 👋
 
-## 🚀 Full-stack Developer | 💻 Info. Systems Student | 📚 Lifelong Learner
+## 🚀 Full-stack Developer | 🎓 Information Systems Engineering Student  
+## 🇨🇷 Costa Rica | 🌍 Bilingual in Spanish & English | 📚 Learning Japanese
 
 Welcome to my GitHub! I’m a passionate and driven **Full-stack Developer** from Costa Rica, currently studying **Information Systems Engineering** at the **National University of Costa Rica**.
 
@@ -32,6 +33,23 @@ I thrive on building **scalable**, **efficient**, and **innovative solutions** w
 - **Fast learner** 📚
 - **Collaboration** 🤝
 - **Efficient & scalable systems** ⚙️
+
+---
+
+- ## 🛠️ Technologies & Tools
+- **Languages:** Java, JavaScript, C++, TypeScript, Prolog
+- **Web Technologies:** HTML5, CSS
+- **Frameworks:** SpringBoot, Angular
+- **Databases:** Oracle, MySQL, SQL Server
+- **Tools:** Docker, GitHub
+- **Programming Paradigms:** OOP, Functional Programming
+
+---
+
+## 🌍 Languages
+- **Spanish:** Native 🇪🇸
+- **English:** Bilingual 🇬🇧
+- **Japanese:** Basic 🇯🇵
 
 ---
 
