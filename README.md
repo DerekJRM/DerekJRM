@@ -1,4 +1,4 @@
-# Hi there, I'm Derek Rojas Mendoza 👋
+# Hi there, I'm Derek Rojas Mendoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## 🚀 Full-stack Developer | 🎓 Information Systems Engineering Student  
 ## 🇨🇷 Costa Rica | 🌍 Bilingual in Spanish & English | 📚 Learning Japanese
@@ -50,6 +50,14 @@ I thrive on building **scalable**, **efficient**, and **innovative solutions** w
 - **Spanish:** Native 🇪🇸
 - **English:** Bilingual 🇬🇧
 - **Japanese:** Basic 🇯🇵
+
+---
+
+<div align="center">
+    <a href="https://github.com/DerekJRM">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DerekJRM&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="DerekJRM's Top Languages"/>
+    </a>
+</div>
 
 ---
 
