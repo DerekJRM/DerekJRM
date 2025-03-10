@@ -7,18 +7,6 @@ Welcome to my GitHub! I’m a passionate and driven **Full-stack Developer** fro
 
 I thrive on building **scalable**, **efficient**, and **innovative solutions** with cutting-edge technologies. Whether it’s **backend**, **frontend**, or **database management**, I love diving into new challenges and turning them into functional, well-crafted code.
 
----
-
-## 🛠️ Technologies I Use:
-
-- **Languages**: Java, JavaScript, TypeScript, C++, Prolog
-- **Frameworks & Libraries**: SpringBoot, Angular
-- **Databases**: Oracle, MySQL, SQL Server
-- **Tools**: Docker, GitHub
-- **Web**: HTML5, CSS
-
----
-
 ## 🌱 What I'm currently working on:
 
 - **Palacio de los Deportes Project** at **Municipalidad de Heredia** 🏟️ – Full-stack development for an integrated system focused on management and user experience.
@@ -35,11 +23,11 @@ I thrive on building **scalable**, **efficient**, and **innovative solutions** w
 ---
 
 - ## 🛠️ Technologies & Tools
-- **Languages:** Java, JavaScript, C++, TypeScript, Prolog
+- **Languages:** Java, JavaScript, C++, TypeScript, Prolog, Kotlin
 - **Web Technologies:** HTML5, CSS
 - **Frameworks:** SpringBoot, Angular
 - **Databases:** Oracle, MySQL, SQL Server
-- **Tools:** Docker, GitHub
+- **Tools:** Docker, GitHub, IntelliJ, Visual Studio Code, DataGrip, Android Studio, Wolfram Mathematica
 - **Programming Paradigms:** OOP, Functional Programming
 
 ---
