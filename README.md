@@ -9,7 +9,8 @@ I thrive on building **scalable**, **efficient**, and **innovative solutions** w
 
 ## 🌱 What I'm currently working on:
 
-- **Palacio de los Deportes Project** at **Municipalidad de Heredia** 🏟️ – Full-stack development for an integrated system focused on management and user experience.
+- **Learning React and C# 💻** – Expanding my skills in modern frontend and backend development.
+- **Planning my first videogame 🎮** – A personal project combining programming, design, and creativity to bring an original game idea to life.
 
 ---
 
