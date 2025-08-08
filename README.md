@@ -23,11 +23,11 @@ I thrive on building **scalable**, **efficient**, and **innovative solutions** w
 ---
 
 - ## 🛠️ Technologies & Tools
-- **Languages:** Java, JavaScript, C++, TypeScript, Prolog, Kotlin
+- **Languages:** Java, JavaScript, C++, TypeScript, Prolog, Kotlin, python
 - **Web Technologies:** HTML5, CSS
-- **Frameworks:** SpringBoot, Angular
+- **Frameworks:** SpringBoot, Angular, JUnit
 - **Databases:** Oracle, MySQL, SQL Server
-- **Tools:** Docker, GitHub, IntelliJ, Visual Studio Code, DataGrip, Android Studio, Wolfram Mathematica
+- **Tools:** Docker, GitHub, IntelliJ, Visual Studio Code, DataGrip, Android Studio
 - **Programming Paradigms:** OOP, Functional Programming
 
 ---
@@ -51,6 +51,7 @@ I thrive on building **scalable**, **efficient**, and **innovative solutions** w
 
 - **LinkedIn**: www.linkedin.com/in/derekjrm
 - **Email**: derekrojas586@gmail.com
+- **Phone**: +506 8710-7411
 
 ---
 
