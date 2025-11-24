@@ -45,20 +45,6 @@ I thrive on building **scalable**, **efficient**, and **innovative solutions** w
 - **English:** Bilingual 🇬🇧
 - **Japanese:** Basic 🇯🇵
 
----
-
-<div align="center">
-    <a href="https://github.com/DerekJRM">
-        <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerekJRM&layout=compact&hide_progress=true&theme=tokyonight"
-            width="375"
-            alt="DerekJRM's Top Languages"
-        />
-    </a>
-</div>
-
----
-
 ## 📫 How to reach me:
 
 - **LinkedIn**: www.linkedin.com/in/derekjrm
