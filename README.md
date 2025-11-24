@@ -1,6 +1,6 @@
 # Hi there, I'm Derek Rojas Mendoza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## 🚀 Full-stack Developer | 🎓 Information Systems Engineering Student  
+## 🚀 Full-stack Developer | Systems Engineer  
 ## 🇨🇷 Costa Rica | 🌍 Bilingual in Spanish & English | 📚 Learning Japanese
 
 Welcome to my GitHub! I’m a passionate and driven **Full-stack Developer** from Costa Rica, currently studying **Information Systems Engineering** at the **National University of Costa Rica**.
@@ -10,26 +10,33 @@ I thrive on building **scalable**, **efficient**, and **innovative solutions** w
 ## 🌱 What I'm currently working on:
 
 - **Learning React and C# 💻** – Expanding my skills in modern frontend and backend development.
-- **Planning my first videogame 🎮** – A personal project combining programming, design, and creativity to bring an original game idea to life.
 
 ---
 
 ## 🔥 Key Strengths:
-
-- **Problem-solving** 🧩
-- **Fast learner** 📚
-- **Collaboration** 🤝
-- **Efficient & scalable systems** ⚙️
+- **Technical Leadership**
+- **Team Collaboration**
+- **Effective Communication**
+- **Public Speaking**
+- **Problem-Solving**
+- **Agile Mindset**
+- **Adaptability**
+- **Empathy**
+- **Active Listening**
+- **Conflict Resolution**
+- **Time Management**
+- **Self-Motivation**
+- **Fast Learner**
 
 ---
 
-- ## 🛠️ Technologies & Tools
-- **Languages:** Java, JavaScript, C++, TypeScript, Prolog, Kotlin, python
-- **Web Technologies:** HTML5, CSS
-- **Frameworks:** SpringBoot, Angular, JUnit
-- **Databases:** Oracle, MySQL, SQL Server
-- **Tools:** Docker, GitHub, IntelliJ, Visual Studio Code, DataGrip, Android Studio
-- **Programming Paradigms:** OOP, Functional Programming
+## 🛠️ Technologies & Tools
+- **Programming Languages:** C++, Java, Python, Kotlin, JavaScript, TypeScript, C#, HTML5, CSS3
+- **Frameworks:** SpringBoot, ReactJS, React Native, Angular, Jetpack Compose, .NET
+- **Databases & Data Analysis:** MySQL, PostgreSQL, Oracle SQL, Database Design, SQL Query Optimization
+- **Cloud & Infrastructure:** Git, GitHub, GitLab, Docker
+- **Fundamental Concepts:** OOP, Responsive Design and Development
+- **Testing Tools & Frameworks:** Unit Testing, Integration Testing, JUnit, Cypress, Postman
 
 ---
 
