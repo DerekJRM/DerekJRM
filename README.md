@@ -49,7 +49,11 @@ I thrive on building **scalable**, **efficient**, and **innovative solutions** w
 
 <div align="center">
     <a href="https://github.com/DerekJRM">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DerekJRM&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="DerekJRM's Top Languages"/>
+        <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerekJRM&layout=compact&hide_progress=true&theme=tokyonight"
+            width="375"
+            alt="DerekJRM's Top Languages"
+        />
     </a>
 </div>
 
